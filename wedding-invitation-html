@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>  
+  <link href='http://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic' rel='stylesheet' type='text/css'>
+  
+  <meta charset=utf-8 />
+  <title>Wedding Invitation</title>
+  
+  <style>
+    
+    body {
+      background-color: #eef8ff;
+      margin: 8px;
+      border: 6px solid white;
+      padding: 30px;
+      font-family: "Sorts Mill Goudy", Times, serif;
+    }
+    
+    
+    h1, h2, h3 { 
+      margin-top: 0px;
+      margin-bottom: 0px;
+      text-align: center;
+      font-weight: normal;
+    }
+    
+    
+     h1 {
+      font-size: 54px;
+       line-height: 60px;
+      font-style: italic;
+      margin-bottom: 10px;
+      margin-top: 20px;
+    }
+    
+    
+    h3 {
+      font-size: 14px;
+      text-transform: uppercase;
+      color: rgb(50, 92, 126);
+      margin-bottom: 10px;
+    }
+    
+    
+    .date {
+      font-style: italic;
+      font-size: 28px;
+      border-top: 3px double rgb(185, 203, 217);
+      padding-top: 18px;
+      margin-top: 0px;
+      line-height: 28px;
+    }
+    
+    
+    .church {
+      font-size: 21px;
+    }
+    
+    
+    .city {
+      font-size: 11px;
+      text-transform: uppercase;
+      border-bottom: 3px double rgb(185, 203, 217);
+      padding-bottom: 18px;
+      margin-bottom: 30px;
+      line-height: 28px;
+    }
+    
+    
+    p {
+      font-size: 15px;
+      line-height: 20px;
+    }
+    
+    
+    .ampersand {
+      font-size: 80px;
+      color: rgb(64, 100, 129);
+      vertical-align: middle;
+    }
+    
+  </style>
+  
+</head>
+<body>
+    
+    <h3>You Are Cordially Invited To The Wedding of</h3>
+  <h1>William <span class="ampersand">&</span> Kate</h1>
+  
+  <h2 class="date">April 29, 2011</h2>
+  <h2 class="church">Westminster Abbey</h2>
+  <h2 class="city">London, England</h2>
+  
+  <p><em>A reply is requested to:</em> State Invitations Secretary, Lord Chamberlain's Office, Buckingham Palace, London, SW1A 1AA. <em>Dress:</em> Uniform, Morning Coat or Lounge Suit.</p>
+  
+  <p>Reception immediately following at Downton Abbey, County of Yorkshire. No more than one guest, please. This invitation is non-transferable.</p>
+  
+  
+</body>
+</html>
